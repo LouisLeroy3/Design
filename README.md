@@ -1,3 +1,7 @@
+# Collaborateur
+
+Ce travail a été réalisé avec l'aide de Valentin Boutouria, car nous avions des difficultés que nous avons pu surmonter ensemble.
+
 # Design
 
 TP de design sur les dispositif bluetooth (nrf52-dk).
